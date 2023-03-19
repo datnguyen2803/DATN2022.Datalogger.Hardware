@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=NetNode400_23 Pin=R101-1
+Removed Pin From Net: NetName=NetNode400_25 Pin=R106-1
+Removed Pin From Net: NetName=NetNode400_26 Pin=R111-1
+Removed Pin From Net: NetName=NetNode400_24 Pin=R116-1
+Added Pin To Net: NetName=NetNode400_26 Pin=R101-1
+Added Pin To Net: NetName=NetNode400_24 Pin=R106-1
+Added Pin To Net: NetName=NetNode400_23 Pin=R111-1
+Added Pin To Net: NetName=NetNode400_25 Pin=R116-1
