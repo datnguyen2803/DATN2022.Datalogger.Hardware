@@ -1,0 +1,328 @@
+Removed Pin From Net: NetName=GND Pin=C503-2
+Removed Pin From Net: NetName=PUMP0_ANALOG Pin=D100-2
+Removed Pin From Net: NetName=NetC104_1 Pin=D101-2
+Removed Pin From Net: NetName=NetC107_1 Pin=D102-2
+Removed Pin From Net: NetName=NetC110_1 Pin=D103-2
+Removed Pin From Net: NetName=GND Pin=D503-2
+Removed Pin From Net: NetName=NetD100_1 Pin=R102-2
+Removed Pin From Net: NetName=GND Pin=R103-1
+Removed Pin From Net: NetName=NetD100_1 Pin=R103-2
+Removed Pin From Net: NetName=NetD101_1 Pin=R107-2
+Removed Pin From Net: NetName=GND Pin=R108-1
+Removed Pin From Net: NetName=NetD101_1 Pin=R108-2
+Removed Pin From Net: NetName=NetD102_1 Pin=R112-2
+Removed Pin From Net: NetName=GND Pin=R113-1
+Removed Pin From Net: NetName=NetD102_1 Pin=R113-2
+Removed Pin From Net: NetName=NetD103_1 Pin=R117-2
+Removed Pin From Net: NetName=GND Pin=R118-1
+Removed Pin From Net: NetName=NetD103_1 Pin=R118-2
+Removed Pin From Net: NetName=GND Pin=U501-1
+Removed Pin From Net: NetName=5V Pin=U501-3
+Removed Member From Class: ClassName=DATN2022.Power Member=D503
+Removed Member From Class: ClassName=DATN2022.DataReader Member=R113
+Removed Member From Class: ClassName=DATN2022.DataReader Member=R116
+Removed Member From Class: ClassName=DATN2022.DataReader Member=R117
+Removed Member From Class: ClassName=DATN2022.DataReader Member=R118
+Removed Member From Class: ClassName=DATN2022.Power Member=R501
+Removed Member From Class: ClassName=DATN2022.Power Member=U501
+Change Component Footprint: Designator=C503 Old Footprint=CAP_ALUM_SMD_6377_TYPE_D8 New Footprint=CAP_CERAMIC_0805(2012mm)
+Change Component Comment : Designator=R101 Old Comment=1k New Comment=10k
+Change Component Comment : Designator=R106 Old Comment=1k New Comment=10k
+Change Component Comment : Designator=R111 Old Comment=1k New Comment=10k
+Change Component Comment : Designator=R102 Old Comment=2k New Comment=10k
+Change Component Comment : Designator=R107 Old Comment=2k New Comment=10k
+Change Component Comment : Designator=R112 Old Comment=2k New Comment=10k
+Change Component Comment : Designator=C503 Old Comment=220uF/16V New Comment=104
+Change component parameters: Designator = "C100"; Footprint = "CAP_CERAMIC_0805(2012mm)"; UniqueID = "\XKTKCKNY\EOWDVJXJ"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Component Type"; Value = "T? Ceramic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "RAD-0.3"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "T? Ceramic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "33p"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C101"; Footprint = "CAP_CERAMIC_0805(2012mm)"; UniqueID = "\XKTKCKNY\XYXAEDKK"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Component Type"; Value = "T? Ceramic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "RAD-0.3"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "T? Ceramic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "33p"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C102"; Footprint = "CAP_CERAMIC_0805(2012mm)"; UniqueID = "\XKTKCKNY\ANENEGDG"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Component Type"; Value = "T? Ceramic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "RAD-0.3"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "T? Ceramic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "33p"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C103"; Footprint = "CAP_CERAMIC_0805(2012mm)"; UniqueID = "\XKTKCKNY\FECWSOLL"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Component Type"; Value = "T? Ceramic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "RAD-0.3"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "T? Ceramic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "33p"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C104"; Footprint = "CAP_CERAMIC_0805(2012mm)"; UniqueID = "\XKTKCKNY\BBPADPVJ"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Component Type"; Value = "T? Ceramic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "RAD-0.3"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "T? Ceramic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "33p"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C105"; Footprint = "CAP_CERAMIC_0805(2012mm)"; UniqueID = "\XKTKCKNY\RWHTGRTX"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Component Type"; Value = "T? Ceramic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "RAD-0.3"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "T? Ceramic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "33p"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C106"; Footprint = "CAP_CERAMIC_0805(2012mm)"; UniqueID = "\XKTKCKNY\CHVOHJFC"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Component Type"; Value = "T? Ceramic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "RAD-0.3"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "T? Ceramic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "33p"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C107"; Footprint = "CAP_CERAMIC_0805(2012mm)"; UniqueID = "\XKTKCKNY\YQAFPMVD"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Component Type"; Value = "T? Ceramic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "RAD-0.3"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "T? Ceramic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "33p"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C108"; Footprint = "CAP_CERAMIC_0805(2012mm)"; UniqueID = "\XKTKCKNY\GKWVBEIW"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Component Type"; Value = "T? Ceramic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "RAD-0.3"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "T? Ceramic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "33p"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C109"; Footprint = "CAP_CERAMIC_0805(2012mm)"; UniqueID = "\XKTKCKNY\TWLSOCXA"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Component Type"; Value = "T? Ceramic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "RAD-0.3"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "T? Ceramic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "33p"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C110"; Footprint = "CAP_CERAMIC_0805(2012mm)"; UniqueID = "\XKTKCKNY\FSNFFGFO"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Component Type"; Value = "T? Ceramic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "RAD-0.3"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "T? Ceramic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "33p"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C111"; Footprint = "CAP_CERAMIC_0805(2012mm)"; UniqueID = "\XKTKCKNY\PSEPXGBF"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Component Type"; Value = "T? Ceramic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "RAD-0.3"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "T? Ceramic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "33p"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C400"; Footprint = "CAP_CERAMIC_0805(2012mm)"; UniqueID = "\VYERVOFV\KQFALHCS"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Component Type"; Value = "T? Ceramic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "RAD-0.3"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "T? Ceramic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "33p"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C501"; Footprint = "CAP_CERAMIC_0805(2012mm)"; UniqueID = "\ITRTJABV\FTHJMJVR"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Component Type"; Value = "T? Ceramic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "RAD-0.3"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "T? Ceramic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "33p"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C503"; Footprint = "CAP_CERAMIC_0805(2012mm)"; UniqueID = "\ITRTJABV\KQRSFHBG"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Component Type"; Value = "T? Ceramic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "RAD-0.3"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "T? Ceramic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "33p"; VariantName = "[No Variations]"
+Added Component: Designator=C401(CAP_CERAMIC_0805(2012mm))
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Component Type"; Value = "T? Ceramic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "RAD-0.3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "T? Ceramic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "33p"; VariantName = "[No Variations]"
+Added Component: Designator=C402(CAP_CERAMIC_0805(2012mm))
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Component Type"; Value = "T? Ceramic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "RAD-0.3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "T? Ceramic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "33p"; VariantName = "[No Variations]"
+Added Component: Designator=C403(CAP_CERAMIC_0805(2012mm))
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Component Type"; Value = "T? Ceramic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "RAD-0.3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "T? Ceramic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "33p"; VariantName = "[No Variations]"
+Added Component: Designator=C404(CAP_CERAMIC_0805(2012mm))
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Component Type"; Value = "T? Ceramic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "RAD-0.3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "T? Ceramic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "33p"; VariantName = "[No Variations]"
+Added Component: Designator=R400(RES_0805(2012))
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0805"; VariantName = "[No Variations]"
+Added Component: Designator=R401(RES_0805(2012))
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0805"; VariantName = "[No Variations]"
+Added Component: Designator=R402(RES_0805(2012))
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0805"; VariantName = "[No Variations]"
+Added Component: Designator=R403(RES_0805(2012))
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0805"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C401-1
+Added Pin To Net: NetName=GND Pin=C402-1
+Added Pin To Net: NetName=GND Pin=C403-1
+Added Pin To Net: NetName=GND Pin=C404-1
+Added Pin To Net: NetName=GND Pin=C503-1
+Added Pin To Net: NetName=5V Pin=C503-2
+Added Pin To Net: NetName=5V Pin=R100-2
+Added Pin To Net: NetName=5V Pin=R101-1
+Added Pin To Net: NetName=NetR100_1 Pin=R101-2
+Added Pin To Net: NetName=NetR100_1 Pin=R102-1
+Added Pin To Net: NetName=GND Pin=R102-2
+Added Pin To Net: NetName=5V Pin=R103-1
+Added Pin To Net: NetName=NetR105_1 Pin=R103-2
+Added Pin To Net: NetName=5V Pin=R105-2
+Added Pin To Net: NetName=NetR105_1 Pin=R106-1
+Added Pin To Net: NetName=GND Pin=R106-2
+Added Pin To Net: NetName=5V Pin=R107-1
+Added Pin To Net: NetName=NetR110_1 Pin=R107-2
+Added Pin To Net: NetName=NetR110_1 Pin=R108-1
+Added Pin To Net: NetName=GND Pin=R108-2
+Added Pin To Net: NetName=5V Pin=R110-2
+Added Pin To Net: NetName=5V Pin=R111-1
+Added Pin To Net: NetName=NetR115_1 Pin=R111-2
+Added Pin To Net: NetName=NetR115_1 Pin=R112-1
+Added Pin To Net: NetName=GND Pin=R112-2
+Added Pin To Net: NetName=5V Pin=R115-2
+Added Pin To Net: NetName=GND Pin=R400-1
+Added Pin To Net: NetName=GND Pin=R401-1
+Added Pin To Net: NetName=GND Pin=R402-1
+Added Pin To Net: NetName=GND Pin=R403-1
+Added Pin To Net: NetName=PUMP0_ANALOG Pin=U100-7
+Added Pin To Net: NetName=NetD100_1 Pin=U101-1
+Added Pin To Net: NetName=NetD101_1 Pin=U101-7
+Added Pin To Net: NetName=5V Pin=U101-8
+Added Pin To Net: NetName=NetC104_1 Pin=U102-7
+Added Pin To Net: NetName=NetC107_1 Pin=U103-7
+Added Pin To Net: NetName=NetD102_1 Pin=U104-1
+Added Pin To Net: NetName=NetD103_1 Pin=U104-7
+Added Pin To Net: NetName=5V Pin=U104-8
+Added Pin To Net: NetName=NetC110_1 Pin=U105-7
+Change Net Name : Old Net Name=NetR105_1 New Net Name=NetR103_2
+Change Net Name : Old Net Name=NetR110_1 New Net Name=NetR107_2
+Change Net Name : Old Net Name=NetR115_1 New Net Name=NetR111_2
+Added Pin To Net: NetName=PUMP_INPUT0 Pin=C401-2
+Added Pin To Net: NetName=PUMP_INPUT0 Pin=D100-2
+Added Pin To Net: NetName=PUMP_INPUT0 Pin=Node400-26
+Added Pin To Net: NetName=PUMP_INPUT0 Pin=R400-2
+Added Net: Name=PUMP_INPUT0
+Added Pin To Net: NetName=PUMP_INPUT1 Pin=C402-2
+Added Pin To Net: NetName=PUMP_INPUT1 Pin=D101-2
+Added Pin To Net: NetName=PUMP_INPUT1 Pin=Node400-25
+Added Pin To Net: NetName=PUMP_INPUT1 Pin=R401-2
+Added Net: Name=PUMP_INPUT1
+Added Pin To Net: NetName=PUMP_INPUT2 Pin=C403-2
+Added Pin To Net: NetName=PUMP_INPUT2 Pin=D102-2
+Added Pin To Net: NetName=PUMP_INPUT2 Pin=Node400-24
+Added Pin To Net: NetName=PUMP_INPUT2 Pin=R402-2
+Added Net: Name=PUMP_INPUT2
+Added Pin To Net: NetName=PUMP_INPUT3 Pin=C404-2
+Added Pin To Net: NetName=PUMP_INPUT3 Pin=D103-2
+Added Pin To Net: NetName=PUMP_INPUT3 Pin=Node400-23
+Added Pin To Net: NetName=PUMP_INPUT3 Pin=R403-2
+Added Net: Name=PUMP_INPUT3
+Added Member To Class: ClassName=DATN2022.MCU Member=Component C401 104
+Added Member To Class: ClassName=DATN2022.MCU Member=Component C402 104
+Added Member To Class: ClassName=DATN2022.MCU Member=Component C403 104
+Added Member To Class: ClassName=DATN2022.MCU Member=Component C404 104
+Added Member To Class: ClassName=DATN2022.MCU Member=Component R400 10K
+Added Member To Class: ClassName=DATN2022.MCU Member=Component R401 10K
+Added Member To Class: ClassName=DATN2022.MCU Member=Component R402 10K
+Added Member To Class: ClassName=DATN2022.MCU Member=Component R403 10K
